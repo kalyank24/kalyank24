@@ -19,3 +19,11 @@ I am an aspiring Security Operations Center (SOC) Analyst passionate about cyber
  <a href="https://linkedin.com/in/kalyank24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
+</p>
+
+<hr>
