@@ -26,3 +26,8 @@ I am an aspiring Security Operations Center (SOC) Analyst passionate about cyber
 </p>
 
 <hr>
+
+<br>
+
+<h2>TryHackMe - Writeups</h2>
+<p> I will upload my progress and projects in github,</p>
