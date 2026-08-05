@@ -27,6 +27,6 @@ I am an aspiring Security Operations Center (SOC) Analyst passionate about cyber
 
 <br>
 
-<h2>TryHackMe - Writeups</h2>
+<h2>TryHackMe - Write-ups</h2>
 
-<p> I will upload my progress and projects in github,</p>
+<p> I will upload my progress and projects in this repository while preparing for a SOC Analyst Role.The Write-ups summarize the concepts, tools, and techniques learned.</p>
